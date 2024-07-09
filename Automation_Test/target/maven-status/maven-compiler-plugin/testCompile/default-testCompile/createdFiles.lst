@@ -1,0 +1,8 @@
+Utilities\WebDriverManagerTest.class
+PageObjects\HomePage.class
+stepDefinitions\HomePageStep.class
+Utilities\ConfigReader.class
+runners\API_TestRunner.class
+Utilities\RestAssuredUtility.class
+runners\TestRunner.class
+stepDefinitions\AddDeviceStep.class
